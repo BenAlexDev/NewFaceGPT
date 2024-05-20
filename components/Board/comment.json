@@ -1,0 +1,168 @@
+{
+    "data": [
+       {
+          "message": "{{product.brand}}",
+          "id": "102041614815098_796313435834098"
+       },
+       {
+          "id": "102041614815098_1432828417586163"
+       },
+       {
+          "id": "102041614815098_796313392500769"
+       },
+       {
+          "id": "102041614815098_796313372500771"
+       },
+       {
+          "id": "102041614815098_300665466130332"
+       },
+       {
+          "comments": {
+             "data": [
+                {
+                   "comments": {
+                      "data": [
+                         {
+                            "created_time": "2023-11-15T06:42:13+0000",
+                            "from": {
+                               "name": "WunderRein",
+                               "id": "102041614815098"
+                            },
+                            "message": "Frank Hoppstock Hallo Frank, da hast du absolut Recht! LG\ud83d\ude09\ud83d\udc99",
+                            "id": "796313405834101_1005093313920161"
+                         }
+                      ],
+                      "paging": {
+                         "cursors": {
+                            "before": "QVFIUmRHdDdsNWRfYmhsTDBteERCM3RfR2l6U3VaWVl6NVdKWVFfSnlDTFJta21VUXlUTGpWTTFINU9sNlAzcXVCTk4xckZAFaXpWLXo2VlJXYjNqdFlOaVZA3",
+                            "after": "QVFIUmRHdDdsNWRfYmhsTDBteERCM3RfR2l6U3VaWVl6NVdKWVFfSnlDTFJta21VUXlUTGpWTTFINU9sNlAzcXVCTk4xckZAFaXpWLXo2VlJXYjNqdFlOaVZA3"
+                         }
+                      },
+                      "summary": {
+                         "order": "chronological",
+                         "total_count": 1,
+                         "can_comment": true
+                      }
+                   },
+                   "message": "Eins f\u00fcr alles",
+                   "from": {
+                      "name": "Frank Hoppstock",
+                      "id": "6081963575215686"
+                   },
+                   "likes": {
+                      "data": [
+                         {
+                            "id": "102041614815098",
+                            "name": "WunderRein"
+                         }
+                      ],
+                      "paging": {
+                         "cursors": {
+                            "before": "QVFIUnp5eVBHUVhWOGlnQ3RlN0NMaDVpUnAzek9iN2FIeVZAUdHgzNXlTd3NIUXlEQlRJVUtEUkRWMEo1ZAVgwbm5kVklMOGVvUnlHQnRiMkVkTHU1SGVpdENB",
+                            "after": "QVFIUnp5eVBHUVhWOGlnQ3RlN0NMaDVpUnAzek9iN2FIeVZAUdHgzNXlTd3NIUXlEQlRJVUtEUkRWMEo1ZAVgwbm5kVklMOGVvUnlHQnRiMkVkTHU1SGVpdENB"
+                         }
+                      }
+                   },
+                   "created_time": "2023-11-14T19:53:37+0000",
+                   "comment_count": 1,
+                   "like_count": 1,
+                   "is_hidden": false,
+                   "id": "796313405834101_331823709449119"
+                }
+             ],
+             "paging": {
+                "cursors": {
+                   "before": "MQZDZD",
+                   "after": "MQZDZD"
+                }
+             }
+          },
+          "message": "\u00dcber 100.000 zufriedene KundInnen putzen bereits nachhaltig mit WunderRein \ud83c\udf31\n\ud83d\udd39 Nachhaltig in \u00d6sterreich produziert \ud83c\udde6\ud83c\uddf9\n\ud83d\udd39 Hautvertr\u00e4glich (dermatologisch getestet)\n\ud83d\udd39 Sparsame Verwendung\n\ud83d\udd39 Versandkostenfreie Lieferung\n\ud83d\udd39 Biologisch abbaubar \ud83c\udf31\n\ud83d\udd39 Ersetzt durch starke Reinigungskraft alle bisherigen Reinigungsmittel im Haushalt. \u2728\n\nJetzt versandkostenfrei testen!",
+          "id": "102041614815098_1002677850825322"
+       },
+       {
+          "comments": {
+             "data": [
+                {
+                   "comments": {
+                      "data": [
+                         {
+                            "created_time": "2023-11-15T06:42:13+0000",
+                            "from": {
+                               "name": "WunderRein",
+                               "id": "102041614815098"
+                            },
+                            "message": "Frank Hoppstock Hallo Frank, da hast du absolut Recht! LG\ud83d\ude09\ud83d\udc99",
+                            "id": "796313405834101_1005093313920161"
+                         }
+                      ],
+                      "paging": {
+                         "cursors": {
+                            "before": "QVFIUmRHdDdsNWRfYmhsTDBteERCM3RfR2l6U3VaWVl6NVdKWVFfSnlDTFJta21VUXlUTGpWTTFINU9sNlAzcXVCTk4xckZAFaXpWLXo2VlJXYjNqdFlOaVZA3",
+                            "after": "QVFIUmRHdDdsNWRfYmhsTDBteERCM3RfR2l6U3VaWVl6NVdKWVFfSnlDTFJta21VUXlUTGpWTTFINU9sNlAzcXVCTk4xckZAFaXpWLXo2VlJXYjNqdFlOaVZA3"
+                         }
+                      },
+                      "summary": {
+                         "order": "chronological",
+                         "total_count": 1,
+                         "can_comment": true
+                      }
+                   },
+                   "message": "Eins f\u00fcr alles",
+                   "from": {
+                      "name": "Frank Hoppstock",
+                      "id": "6081963575215686"
+                   },
+                   "likes": {
+                      "data": [
+                         {
+                            "id": "102041614815098",
+                            "name": "WunderRein"
+                         }
+                      ],
+                      "paging": {
+                         "cursors": {
+                            "before": "QVFIUnp5eVBHUVhWOGlnQ3RlN0NMaDVpUnAzek9iN2FIeVZAUdHgzNXlTd3NIUXlEQlRJVUtEUkRWMEo1ZAVgwbm5kVklMOGVvUnlHQnRiMkVkTHU1SGVpdENB",
+                            "after": "QVFIUnp5eVBHUVhWOGlnQ3RlN0NMaDVpUnAzek9iN2FIeVZAUdHgzNXlTd3NIUXlEQlRJVUtEUkRWMEo1ZAVgwbm5kVklMOGVvUnlHQnRiMkVkTHU1SGVpdENB"
+                         }
+                      }
+                   },
+                   "created_time": "2023-11-14T19:53:37+0000",
+                   "comment_count": 1,
+                   "like_count": 1,
+                   "is_hidden": false,
+                   "id": "796313405834101_331823709449119"
+                }
+             ],
+             "paging": {
+                "cursors": {
+                   "before": "MQZDZD",
+                   "after": "MQZDZD"
+                }
+             }
+          },
+          "message": "\u00dcber 100.000 zufriedene KundInnen putzen bereits nachhaltig mit WunderRein \ud83c\udf31\n\ud83d\udd39 Nachhaltig in \u00d6sterreich produziert \ud83c\udde6\ud83c\uddf9\n\ud83d\udd39 Hautvertr\u00e4glich (dermatologisch getestet)\n\ud83d\udd39 Sparsame Verwendung\n\ud83d\udd39 Versandkostenfreie Lieferung\n\ud83d\udd39 Biologisch abbaubar \ud83c\udf31\n\ud83d\udd39 Ersetzt durch starke Reinigungskraft alle bisherigen Reinigungsmittel im Haushalt. \u2728\n\nJetzt versandkostenfrei testen!",
+          "id": "102041614815098_796313405834101"
+       },
+       {
+          "message": "\u00dcber 100.000 zufriedene KundInnen putzen bereits nachhaltig mit WunderRein \ud83c\udf31\n\ud83d\udd39 Nachhaltig in \u00d6sterreich produziert \ud83c\udde6\ud83c\uddf9\n\ud83d\udd39 Hautvertr\u00e4glich (dermatologisch getestet)\n\ud83d\udd39 Sparsame Verwendung\n\ud83d\udd39 Versandkostenfreie Lieferung\n\ud83d\udd39 Biologisch abbaubar \ud83c\udf31\n\ud83d\udd39 Ersetzt durch starke Reinigungskraft alle bisherigen Reinigungsmittel im Haushalt. \u2728\n\nJetzt versandkostenfrei testen!",
+          "id": "102041614815098_3633985926926947"
+       },
+       {
+          "message": "Wieviele Reinigungsmittel hast du in deinem Haushalt? 10? 15? 20? \ud83d\ude33 Wir haben da etwas f\u00fcr dich..\n\nDu solltest unbedingt das UNIVERSALGENIE WunderRein ausprobieren!\n\nWunderRein ist die neue Reinigungspaste, die aktuell ganz \u00d6sterreich und Deutschland auf den Kopf stellt. \ud83e\udd2f\n\nNICHT SICHER? Hier nur ein paar der harten Fakten:\n\nWunderRein wird nachhaltig in \u00d6sterreich hergestellt: Kein Mikroplastik, 100\u0025 aus Zuckerrohr, biologisch abbaubar. Die Paste ist sogar vegan! \ud83c\udf31\n\nDoch nicht nur die Umwelt freut sich - auch deine Geldb\u00f6rse.\nWarum??\n\nWunderRein ersetzt ALLE bisherigen teuren & sch\u00e4dlichen Spezialreiniger im Haushalt:\n\nDreckige B\u00f6den \u2705\nEkliges Backblech \u2705\nVerschmierte Fenster \u2705\nRotweinflecken \u2705\nErsatz f\u00fcr Geschirrsp\u00fcltabs \u2705\nWaschmittelersatz \u2705\n\nEgal was dir noch einf\u00e4llt. WunderRein kann es l\u00f6sen!\n\nProbier es jetzt versandkostenfrei aus auf www.wunderrein.at \ud83c\udf31",
+          "id": "102041614815098_1795777190858180"
+       },
+       {
+          "message": "\u00dcber 100.000 zufriedene KundInnen putzen bereits nachhaltig mit WunderRein \ud83c\udf31\n\ud83d\udd39 Nachhaltig in \u00d6sterreich produziert \ud83c\udde6\ud83c\uddf9\n\ud83d\udd39 Hautvertr\u00e4glich (dermatologisch getestet)\n\ud83d\udd39 Sparsame Verwendung\n\ud83d\udd39 Versandkostenfreie Lieferung\n\ud83d\udd39 Biologisch abbaubar \ud83c\udf31\n\ud83d\udd39 Ersetzt durch starke Reinigungskraft alle bisherigen Reinigungsmittel im Haushalt. \u2728\n\nJetzt versandkostenfrei testen!",
+          "id": "102041614815098_3123029891173936"
+       }
+    ],
+    "paging": {
+       "cursors": {
+          "before": "QVFIUnh1UGU5NlVZALTZAJejFQWi1RS0pvc3ZAaZA3pQR1BPb1l5ZA3FvNlQwZAVROZAVJZAVUhjS19WbXIxbzFhXzhxMC1mdXdwdVBheFFqSWNEN1dJNHVydndMbk13",
+          "after": "QVFIUmRsNlFBRlhXektUWGlGNkcweldyREhvWjZAnaG5TMHdDTkFrMjNDS2x0VmVRR2lvdUx5ZAjV5cDRtTXg5MUQ3T0ZAycGYtd1YyTXAxMG52b2poMDFHYjdR"
+       },
+       "next": "https://graph.facebook.com/v17.0/102041614815098/ads_posts?access_token=EAAW2ux9zq1QBOxygKDb74yCXZB1OdpLZC3EhW6fJVc1WBUtKnik61pqFDg9rxkKv2F7lnUnW2o4OHpRpAm4QP9WBLJKIQRWpKZCQZAbbYT4BtcCRI6M6PzQbzfqge0dhjOP74NfiZARI2WLvJSDsXsZB7ZCqWH6Rg0AelXjxniCwoTyCk8YGSpMrE731GTJ&fields=comments.limit(300)\u00257Bcomments.summary(true),parent,message,from,likes,created_time,comment_count,like_count,is_hidden,message_tags\u00257D,message&include_inline_create=true&limit=10&pretty=1&after=QVFIUmRsNlFBRlhXektUWGlGNkcweldyREhvWjZAnaG5TMHdDTkFrMjNDS2x0VmVRR2lvdUx5ZAjV5cDRtTXg5MUQ3T0ZAycGYtd1YyTXAxMG52b2poMDFHYjdR",
+       "previous": "https://graph.facebook.com/v17.0/102041614815098/ads_posts?access_token=EAAW2ux9zq1QBOxygKDb74yCXZB1OdpLZC3EhW6fJVc1WBUtKnik61pqFDg9rxkKv2F7lnUnW2o4OHpRpAm4QP9WBLJKIQRWpKZCQZAbbYT4BtcCRI6M6PzQbzfqge0dhjOP74NfiZARI2WLvJSDsXsZB7ZCqWH6Rg0AelXjxniCwoTyCk8YGSpMrE731GTJ&fields=comments.limit(300)\u00257Bcomments.summary(true),parent,message,from,likes,created_time,comment_count,like_count,is_hidden,message_tags\u00257D,message&include_inline_create=true&limit=10&pretty=1&before=QVFIUnh1UGU5NlVZALTZAJejFQWi1RS0pvc3ZAaZA3pQR1BPb1l5ZA3FvNlQwZAVROZAVJZAVUhjS19WbXIxbzFhXzhxMC1mdXdwdVBheFFqSWNEN1dJNHVydndMbk13"
+    }
+ }

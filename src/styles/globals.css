@@ -1,0 +1,360 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'body-font';
+    src: url('../../public/fonts/masion/MaisonNeue-ExtendedBook.eot');
+    src: url('../../public/fonts/masion/MaisonNeue-ExtendedBook.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../../public/fonts/masion/MaisonNeue-ExtendedBook.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../../public/fonts/masion/MaisonNeue-ExtendedBook.woff') format('woff'),
+        /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+        url('../../public/fonts/masion/MaisonNeue-ExtendedBook.ttf') format('truetype'),
+        /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+        url('../../public/fonts/masion/MaisonNeue-ExtendedBook.svg') format('svg');
+    /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'body-font-general';
+    src: url('/fonts/MaisonNeueExtended-Book.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'body-font-bold';
+    src: url('/fonts/MaisonNeueExtended-Demi.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'header-font';
+    src: url('../../public/fonts/pangea/Pangea-Bold.eot');
+    src: url('../../public/fonts/pangea/Pangea-Bold.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../../public/fonts/pangea/Pangea-Bold.woff2') format('woff2'),
+        /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+        url('../../public/fonts/pangea/Pangea-Bold.woff') format('woff'),
+        /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+        url('../../public/fonts/pangea/Pangea-Bold.ttf') format('truetype'),
+        /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+        url('../../public/fonts/pangea/Pangea-Bold.svg') format('svg');
+    /* Legacy iOS */
+}
+
+
+p,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+text,
+input,
+label,
+span,
+table,
+tr,
+td,
+textarea,
+th {
+    font-family: 'body-font' !important;
+    color: '#18232A';
+}
+
+.headerline {
+    font-family: 'header-font' !important;
+}
+
+.body-normal {
+    /* font-family: 'body-font' !important; */
+    font-weight: 600 !important;
+}
+
+.body-bold {
+    font-weight: 700 !important;
+}
+
+.mantine-58x24q {
+    max-width: 100% !important;
+    height: 100%;
+    padding-top: 0px;
+    /* background-color: white; */
+}
+
+.mantine-Modal-inner {
+    z-index: 100000;
+}
+
+.board-page {
+    max-width: 100% !important;
+    height: 100%;
+    background-color: white;
+    box-shadow: 0px 1px 2px 0px rgba(145, 158, 171, 0.24);
+    /* border: 1px solid black; */
+    border-radius: 10px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.auth-devider div::after {
+    border-top: 1px solid #DFE3E8
+}
+
+.auth-devider div::before {
+    border-top: 1px solid #DFE3E8
+}
+
+
+.brands .mantine-Button-label {
+    width: 100%;
+}
+
+.brands {
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #ECEDE7;
+}
+
+.overview-button {
+    background-color: #F5F4F0;
+}
+
+.overview-button:hover {
+    background-color: #919EAB !important;
+}
+
+.brands:hover {
+    background-color: #919EAB3D !important;
+}
+
+.default-background {
+    background-color: #E0E049;
+}
+
+.brands-dropdown {
+    width: 90% !important;
+    border: none;
+    background: #F5F4F0;
+    top: auto !important;
+    min-width: 200px !important;
+}
+
+.overview-dropdown {
+    border: none;
+    background: #F5F4F0;
+    border: 1px solid #919EAB52;
+    width: 130px !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    scrollbar-width: thin;
+    /* "auto" or "thin" */
+    scrollbar-color: gray rgb(56, 56, 56);
+    /* scroll thumb and track */
+}
+
+
+.mantine-Stepper-step {
+    flex-direction: column;
+    gap: 15px;
+    /* width: 900px;zzz */
+}
+
+.sitemap-input .mantine-Input-rightSection {
+    width: 300px;
+}
+
+.learning-page .mantine-Input-rightSection {
+    width: 300px;
+}
+
+p,
+div,
+span,
+button,
+text,
+input,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+table,
+td,
+tr,
+th,
+body {
+    font-family: 'body-font';
+}
+
+.new-comments {
+    padding: 0px;
+}
+
+.comments-tabs .mantine-Tabs-tab[data-active] {
+    border-color: #E0E049;
+    border-width: 3px;
+}
+
+.settings-tabs .mantine-Tabs-tab[data-active] {
+    border-color: #E0E049;
+}
+
+.comments-tabs .mantine-Tabs-tabsList {
+    padding-top: 15px;
+}
+
+.comments-tabs .mantine-Tabs-tab {
+    padding: 10px;
+}
+
+.comments-tabs .mantine-Tabs-tabsList {
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.mantine-Checkbox-input:checked {
+    background-color: #E0E049;
+    border-color: #E0E049 !important;
+}
+
+.mantine-Checkbox-input {
+    border-radius: 4px !important;
+    cursor: pointer;
+}
+
+.ring-progress rect {
+    height: 150px !important;
+}
+
+.mantine-Checkbox-root {
+    background-color: transparent !important;
+}
+
+.highcharts-credits {
+    display: none;
+}
+
+.overloader svg {
+    stroke: #E0E049 !important;
+}
+
+.auth-card {
+    box-shadow: 0px 0px 4px rgba(145, 158, 171, 0.24), 0px 24px 48px rgba(145, 158, 171, 0.24) !important;
+}
+
+input {
+    border-radius: 8px !important;
+}
+
+.mantine-Header-root,
+.mantine-AppShell-main,
+.mantine-Navbar-root {
+    background-color: #F5F4F0 !important;
+}
+
+.mantine-Header-root {
+    z-index: 1000;
+}
+
+.mantine-Stepper-steps {
+    align-items: flex-start;
+}
+
+.mantine-Stepper-separator {
+    margin-top: 30px;
+    width: 300px;
+    background-color: #E0E049;
+}
+
+.mantine-Stepper-stepCompletedIcon {
+    background-color: #E0E049 !important;
+    border-color: #E0E049 !important;
+    border-radius: 24px;
+}
+
+.mantine-Stepper-stepIcon {
+    border-color: #E0E049 !important;
+    min-width: 24px !important;
+    height: 24px !important;
+    width: 24px !important;
+    border-radius: 24px !important;
+    font-size: 12px !important;
+    padding-top: 2px;
+}
+
+input:checked+.mantine-ophoox {
+    background-color: #E0E049;
+    border-color: #E0E049;
+}
+
+.sidebar {
+    /* transition: width 0.5s; */
+    transition: all .2s linear;
+}
+
+.ring-progress .highcharts-container {
+    width: 300px !important;
+    height: 200px !important;
+}
+
+input[type=text]:focus {
+    border: 1px solid #ced4da;
+}
+
+input[type=password]:focus {
+    border: 1px solid #ced4da !important;
+}
+
+textarea:focus {
+    border: 1px solid #ced4da;
+}
+
+input,
+textarea,
+select {
+    border: 1px solid #ced4da !important;
+}
+
+.error-label {
+    color: #FF4842;
+}
+
+.error-input {
+    border-color: #FF4842 !important;
+}
+
+.button-background {
+    background-color: #E0E049;
+}
+
+.sidebar-item-bg {
+    background-color: #E4D7CF;
+}
+
+.transparent-button:hover {
+    background: #F5F4F0
+}
+
+@media only screen and (max-width: 768px) {
+    .mantine-Navbar-root {
+        width: 250px;
+        height: 100vh
+    }
+    .mantine-AppShell-main {
+        background: white !important;
+    }
+}
+
